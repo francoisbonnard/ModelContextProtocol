@@ -23,6 +23,7 @@ Transport Mechanisms
 
 ![run server](image-1.png)
 
-    uv run mcp dev .\server.py
+    uv run mcp dev server.py
 
 ![MCP Inspector](image.png)
+
